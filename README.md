@@ -1,3 +1,5 @@
+A more up-to-date-version is now developed [under the scicloj organization](https://github.com/scicloj/gorilla-notes).
+
 # gorilla-notes
 
 This small library is an experiment with a basic Clojure REPL workflow for creating visual notes (code + html result).
